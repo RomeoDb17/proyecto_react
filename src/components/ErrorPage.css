@@ -1,0 +1,24 @@
+/* Estilos para la página de error */
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff; /* Color del texto */
+    text-align: center; /* Centrar texto */
+    padding: 50px; /* Espaciado interno */
+  }
+  
+  /* Estilos para el título principal */
+  h1 {
+    font-size: 50px; /* Tamaño de fuente */
+    margin-bottom: 20px; /* Margen inferior */
+    text-align: center; /* Centrar texto */
+  }
+  
+  /* Estilos para los párrafos de texto */
+  p {
+    font-size: 32px; /* Tamaño de fuente */
+    margin-bottom: 10px; /* Margen inferior */
+    text-align: center; /* Centrar texto */
+  }
+  

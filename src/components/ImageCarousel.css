@@ -1,0 +1,21 @@
+
+.carousel-container {
+    position: relative;
+    max-width: 70%; /* Ancho máximo del carrusel */
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+  }
+  
+  .slide {
+    flex: 0 0 100%; /* Tamaño de las diapositivas */
+  }
+  
+  .slide img {
+    width: 100%; /* Ancho completo de las imágenes */
+    height: auto; /* Altura automática para mantener la relación de aspecto */
+  }
+  

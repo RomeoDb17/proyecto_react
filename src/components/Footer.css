@@ -1,0 +1,30 @@
+/* Footer.css */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .logo img {
+    width: 100px; /* Ajusta el tamaño del logo según sea necesario */
+  }
+  
+  .links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px; /* Espacio entre los enlaces */
+  }
+  
+  .links a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+  }
+  

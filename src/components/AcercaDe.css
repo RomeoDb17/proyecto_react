@@ -1,0 +1,20 @@
+.about-page {
+    text-align: center;
+
+  }
+  
+  .about-page h1 {
+    margin-bottom: 20px; /* Ajusta el espacio entre el título y los párrafos */
+    color: white;
+    font-size: 35px;
+    font-weight: 800;
+  }
+  
+  .about-page p {
+    margin-bottom: 10px; /* Ajusta el espacio entre los párrafos */
+    color: white;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  

@@ -1,0 +1,38 @@
+
+.product-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 5%;
+  }
+  
+  .product {
+    width: 20%; /* Cada producto ocupa el 20% del ancho */
+    margin: 10px; /* Espacio entre los productos */
+    text-align: center;
+    color: white;
+    padding-bottom: 5%;
+    transition: transform 0.3s ease;
+  }
+  
+  .product img {
+    width: 50%; /* La imagen ocupa el ancho completo del contenedor */
+    height: auto; /* Altura automática para mantener la relación de aspecto */
+
+    
+  }
+
+  .product:hover{
+    transform: scale(1.1);
+  }
+
+  button {
+    background-color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+    color: black;
+  }
+
+  
